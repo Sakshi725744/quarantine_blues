@@ -9,4 +9,9 @@ The logo is a culmination of our thought process, designed to show the letter Q,
 
 We have used Flutter and Android XD to make this app. 
  
-We had to implement a media player, any RESTful api of our choice and push notifications using FCM.
+We had to implement a media player, any RESTful api of our choice and push notifications using FCM.<br>
+Instructions:<br>
+Download APK folder<br>
+Login using random id password<br>
+Click on B,L,U,E,S to see different youtube query list<br>
+
