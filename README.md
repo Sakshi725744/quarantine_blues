@@ -2,7 +2,7 @@
 
 A new take on the blues. <br>
 QB is an app that emphasises that you are not alone during this pandemic. <br> 
-And now anything and everything you may need from hacks, home remedies to live Covid updates is now just a click of a button away.
+And now anything and everything you may need from hacks, home remedies to live Covid updates is just a click away.
 
 ## UI :
 Our acrostic on ‘Blues’
